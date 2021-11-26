@@ -1,0 +1,68 @@
+{
+  "ADS_STATION": [
+    {
+
+      "Active_Ad_network": "yodomas",
+
+      "Mas_AppKey": "tcVIy43Gd5",
+      "Mas_AdmobKey": "ca-app-pub-5580537606944457~3508744482",
+      "Admob_native": "ca-app-pub-3940256099942544/2247696110",
+
+      "Facebook_interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "Facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "Facebook_native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+
+      "Unity_id": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+      "Unity_banner_Placement": "banner_app",
+      "Unity_interstitial_Placement": "inter_video",
+
+      "IronSource_App_Key": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+      "IronSource_interstitial_Placement": "DefaultInterstitial",
+      "IronSource_banner_Placement": "DefaultBanner",
+
+      "Mopub_interstitial": "24534e1901884e398f1253216226017e",
+      "Mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
+      "Mopub_native": "11a17b188668469fb0412708c3d16813",
+
+      "applovin_inter": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+      "applovin_banner": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+
+
+      "Cpa_activate": "no",
+      "Cpa_text": "Free Diamonds 4 Free Fire",
+      "Cpa_icon": "https://i.imgur.com/IOE3zEj.jpg",
+      "Cpa_url": "https://www.google.com/",
+
+      "Json_Checker": "dont_change_this",
+
+
+
+      "Title_1": "Guide 1",
+      "Image_1": "https://i.imgur.com/Ewbodpe.jpg",
+      "Text__1": "Dummy 1 text is text that is used in the publishing industry or by web designers to occupy the space which will later be filled with 'real' content. This is required when, for example, the final text is not yet available. Dummy text is also known as 'fill text'. It is said that song composers of the past used dummy texts as lyrics when writing melodies in order to have a 'ready-made' text to sing with the melody. Dummy texts have been in use by typesetters since the 16th century.",
+
+      "Title_2": "Guide 2",
+      "Image_2": "https://i.imgur.com/Ewbodpe.jpg",
+      "Text__2": "Dummy 2 text is text that is used in the publishing industry or by web designers to occupy the space which will later be filled with 'real' content. This is required when, for example, the final text is not yet available. Dummy text is also known as 'fill text'. It is said that song composers of the past used dummy texts as lyrics when writing melodies in order to have a 'ready-made' text to sing with the melody. Dummy texts have been in use by typesetters since the 16th century.",
+
+      "Title_3": "Guide 3",
+      "Image_3": "https://i.imgur.com/Ewbodpe.jpg",
+      "Text__3": "Dummy 3 text is text that is used in the publishing industry or by web designers to occupy the space which will later be filled with 'real' content. This is required when, for example, the final text is not yet available. Dummy text is also known as 'fill text'. It is said that song composers of the past used dummy texts as lyrics when writing melodies in order to have a 'ready-made' text to sing with the melody. Dummy texts have been in use by typesetters since the 16th century.",
+
+      "Title_4": "Guide 4",
+      "Image_4": "https://i.imgur.com/Ewbodpe.jpg",
+      "Text__4": "Dummy 4 text is text that is used in the publishing industry or by web designers to occupy the space which will later be filled with 'real' content. This is required when, for example, the final text is not yet available. Dummy text is also known as 'fill text'. It is said that song composers of the past used dummy texts as lyrics when writing melodies in order to have a 'ready-made' text to sing with the melody. Dummy texts have been in use by typesetters since the 16th century.",
+
+      "Title_5": "Guide 5",
+      "Image_5": "https://i.imgur.com/Ewbodpe.jpg",
+      "Text__5": "Dummy 5 text is text that is used in the publishing industry or by web designers to occupy the space which will later be filled with 'real' content. This is required when, for example, the final text is not yet available. Dummy text is also known as 'fill text'. It is said that song composers of the past used dummy texts as lyrics when writing melodies in order to have a 'ready-made' text to sing with the melody. Dummy texts have been in use by typesetters since the 16th century."
+
+
+
+
+
+
+
+    }
+  ]
+}
